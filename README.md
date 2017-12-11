@@ -21,12 +21,19 @@ https://github.com/lufeiyang/mwdbrl/releases/download/001/5.ics
 以 iOS 11 添加四值倒班日历为例
 
 设置
+
 账户与密码
+
 添加账户
+
 其他
+
 添加已订阅的日历
+
 粘贴https://github.com/lufeiyang/mwdbrl/releases/download/001/4.ics
+
 存储
+
 
 备份文件地址（此地址未启用SSL，请点 继续 ）
 http://mwbaikefile-10068481.cos.myqcloud.com/1.ics
